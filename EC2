@@ -1,0 +1,9 @@
+Amazon Elastic Compute Cloud (Amazon EC2) gives adaptable computing capacity within the Amazon Web Services (AWS) cloud.
+In simpler terms, it means we rent a powerful computer which exists on a cloud. 
+Amazon EC2 allows us to not to invest in hardware upfront. Thus, enabling us to create applications faster.
+
+Elastic stands for flexibility. It means we can scale up or scale down as per our requirements. 
+Compute stands for a computer, which exists in a cloud. 
+Cloud stands for a group of servers connected with other servers through internet.
+
+Even though it’s a public cloud, it’s a secure and reliable platform. 
