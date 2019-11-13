@@ -1,0 +1,6 @@
+The AWS Snowball service allows the transfer of huge amounts of data from the onsite data Storage location to 
+Amazon Simple Storage Service (Amazon S3).
+The transfer speed is significantly faster than internet speeds and saves us time and money.
+
+Snowball provides an interface that allows us to create jobs, track data, and track the status of our jobs
+from start till finish.
