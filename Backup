@@ -1,0 +1,5 @@
+AWS Backup is a backup service that makes it easy to automate, and control the backup of data across AWS services in the cloud, 
+and on premises.
+Using AWS Backup, we can define backup policies and monitor backup activity for your AWS resources.
+AWS Backup automates backup tasks and removes the need to create scripts and manual processes.
+With just a few clicks on the AWS Backup console, you can create backup policies that automate backup.
